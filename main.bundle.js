@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "http://rails-quantified-self-dev.us-west-2.elasticbeanstalk.com";
+	    return "https://express-quantified-self.herokuapp.com";
 	  }
 	};
 
